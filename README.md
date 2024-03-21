@@ -20,20 +20,20 @@ This project involved setting up a virtual Active Directory (AD) lab with a Wind
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+NIC Set up: <br/>
 <img src="https://i.imgur.com/IDDQTp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning Ip adressing to Server:  <br/>
+<img src="https://i.imgur.com/elqAmhk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installed Active directory domian severes and NAT and DHCP: <br/>
+<img src="https://i.imgur.com/wY282r1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured NAT:  <br/>
+<img src="https://imgur.com/80a4b99e-a915-4037-a45c-607c22875cd3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
