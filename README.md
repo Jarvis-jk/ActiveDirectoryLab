@@ -33,19 +33,19 @@ Installed Active directory domian severes and NAT and DHCP: <br/>
 <br />
 <br />
 Configured NAT:  <br/>
-<img src="https://imgur.com/80a4b99e-a915-4037-a45c-607c22875cd3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gtgPwKn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configured DHCP:  <br/>
+<img src="https://i.imgur.com/JJrWFwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Created Users throught PowerShell script:  <br/>
+<img src="https://i.imgur.com/yuf1wK7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Joined Client to Domain and signed in:  <br/>
+<img src="https://i.imgur.com/UkSFAjD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
